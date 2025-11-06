@@ -1,5 +1,5 @@
 # Car-Dealership-Inventory-Management-System
-This Python program simulates a car dealership's inventory management system. The system aims to model cars and their attributes accurately.
+This short & sweet Python program simulates a car dealership's inventory management system. The system aims to model cars and their attributes accurately.
 We have 5 multiple tasks here - 
 
 Create a Python program to represent vehicles using a class. Each car should have attributes for maximum speed and mileage.
